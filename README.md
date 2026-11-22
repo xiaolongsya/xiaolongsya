@@ -31,7 +31,7 @@ Agentic 个人财务助手：LangGraph Plan-and-Execute、50+ 工具、Flask API
 ## More Projects
 
 - [Adaptive Wireless Charging Kit](https://github.com/xiaolongsya/adaptive-wireless-charging-kit) — 密封电池设备的 5W 无线充电方案与风险分析
-- [Vibecoding Helper](https://github.com/xiaolongsya/vibecoding-helper) — ESP32 AI 任务完成提醒器
+- [ESP32 AI Notifier](https://github.com/xiaolongsya/esp32-ai-notifier) — ESP32-S3 AI 任务状态提醒器
 
 ## Toolbox
 
